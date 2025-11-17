@@ -15,7 +15,7 @@ la partie dure 10 manches.
 
 Ce projet permet de pratiquer la manipulation du DOM, la logique de jeu et les événements JavaScript.
 
-Fonctionnement du jeu
+Fonctionnement du jeu :
 
 - L’utilisateur clique sur une des trois images pour choisir son action.
 - Il appuie sur le bouton “Jouer”.
